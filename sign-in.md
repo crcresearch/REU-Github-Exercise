@@ -34,11 +34,9 @@ Table 4:
 6. name
 
 Table 5:
-1. name
+1. Caleb
 2. name
 3. name
 4. name
 5. name
 6. name
-
-
